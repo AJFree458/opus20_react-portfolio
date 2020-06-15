@@ -1,6 +1,7 @@
 import React from "react";
 import Me from "../../images/2020:03:15-Profile.jpeg"
 import "./style.css";
+import resume from "../../pdf/2020_05_11-Resume.pdf"
 
 const Home = () => {
   return (
@@ -27,7 +28,7 @@ const Home = () => {
                   <p>LinkedIn: <a href="https://www.linkedin.com/in/arthur-j-freeman/">https://www.linkedin.com/in/arthur-j-freeman/</a></p>
                   <p>GitHub: <a href="https://github.com/AJFree458">https://github.com/AJFree458</a></p>
                   <h4>Resume</h4>
-                  <p>Resume PDF: <a href="./assets/pdf/2020_05_11-Resume.pdf">My Resume</a></p>
+                  <p>Resume PDF: <a href={resume} target="blank">My Resume</a></p>
                   <h4>Contact Information</h4>
                   <p>Email: rthr.frmn@gmail.com</p>
                   <p>Phone: (704) 258-0102</p>
