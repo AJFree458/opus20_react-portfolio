@@ -1,16 +1,18 @@
 import React from "react";
+import Me from "../../images/2020:03:15-Profile.jpeg"
+import "./style.css";
 
 const Home = () => {
   return (
     <div>
       <h1>Arthur Freeman</h1>
-      <div className="flex-shrink-0">
+      <article className="flex-shrink-0">
         <div className="container border mt-5 p-3 mb-auto cardBg">
           <h2 className="border-bottom mb-3 pb-3 text-center font-weight-bold">About</h2>
           <div className="card mb-3">
             <div className="row no-gutters">
               <div className="col-md-4">
-                <img src="./assets/images/2020:03:15-Profile.jpeg" className="card-img mt-5 ml-2" alt="It's Me!"/>
+                <img src={Me} className="card-img mt-5 ml-2" alt="It's Me!"/>
               </div>
               <div className="col-md-4">
                 <div className="card-body">
@@ -34,7 +36,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </div>
+      </article>
     </div>
   )
 }
