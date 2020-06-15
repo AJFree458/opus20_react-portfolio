@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css"
 
 function Navbar() {
   return (
@@ -11,7 +12,7 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item ml-auto active">
-                <a className="nav-link textVis" href="index.html">About <span className="sr-only">(current)</span></a>
+                <a className="nav-link textVis" href="index.html">About</a>
               </li>
               <li className="nav-item ml-auto">
               <a className="nav-link textVis" href="portfolio.html">Portfolio</a>
