@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/opus20_react-portfolio/static/css/main.d8db4ea0.chunk.css",
+    "main.js": "/opus20_react-portfolio/static/js/main.ebf978ad.chunk.js",
+    "main.js.map": "/opus20_react-portfolio/static/js/main.ebf978ad.chunk.js.map",
+    "runtime-main.js": "/opus20_react-portfolio/static/js/runtime-main.0059ec94.js",
+    "runtime-main.js.map": "/opus20_react-portfolio/static/js/runtime-main.0059ec94.js.map",
+    "static/js/2.48d5383c.chunk.js": "/opus20_react-portfolio/static/js/2.48d5383c.chunk.js",
+    "static/js/2.48d5383c.chunk.js.map": "/opus20_react-portfolio/static/js/2.48d5383c.chunk.js.map",
+    "index.html": "/opus20_react-portfolio/index.html",
+    "precache-manifest.5a0f28a0fdf369a952b7c46981209753.js": "/opus20_react-portfolio/precache-manifest.5a0f28a0fdf369a952b7c46981209753.js",
+    "service-worker.js": "/opus20_react-portfolio/service-worker.js",
+    "static/css/main.d8db4ea0.chunk.css.map": "/opus20_react-portfolio/static/css/main.d8db4ea0.chunk.css.map",
+    "static/js/2.48d5383c.chunk.js.LICENSE.txt": "/opus20_react-portfolio/static/js/2.48d5383c.chunk.js.LICENSE.txt",
+    "static/media/2020:02:16-EventBook-Screenshot.png": "/opus20_react-portfolio/static/media/2020:02:16-EventBook-Screenshot.a52335f0.png",
+    "static/media/App.css": "/opus20_react-portfolio/static/media/2020:03:15-Pathway.6a634593.jpeg",
+    "static/media/2020:03:15-Profile.jpeg": "/opus20_react-portfolio/static/media/2020:03:15-Profile.f04247e3.jpeg",
+    "static/media/2020:03:16-JavascriptQuiz-Screenshot.png": "/opus20_react-portfolio/static/media/2020:03:16-JavascriptQuiz-Screenshot.d17ca3de.png",
+    "static/media/2020:03:16-PasswordGen-Screenshot.png": "/opus20_react-portfolio/static/media/2020:03:16-PasswordGen-Screenshot.cb5eaf7e.png",
+    "static/media/2020:03:16-WeatherDashboard-Screenshot.png": "/opus20_react-portfolio/static/media/2020:03:16-WeatherDashboard-Screenshot.810e5076.png",
+    "static/media/2020_05_11-Resume.pdf": "/opus20_react-portfolio/static/media/2020_05_11-Resume.b47077e4.pdf",
+    "static/media/Burger_Demo.png": "/opus20_react-portfolio/static/media/Burger_Demo.a37f7931.png",
+    "static/media/Employee-Tracker_Demo.png": "/opus20_react-portfolio/static/media/Employee-Tracker_Demo.14d594fb.png",
+    "static/media/Note-Taker_Demo.png": "/opus20_react-portfolio/static/media/Note-Taker_Demo.217559fa.png",
+    "static/media/Project-2_Demo.png": "/opus20_react-portfolio/static/media/Project-2_Demo.aacbfbb9.png",
+    "static/media/Readme-generator_Demo.png": "/opus20_react-portfolio/static/media/Readme-generator_Demo.bb5651a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0059ec94.js",
+    "static/js/2.48d5383c.chunk.js",
+    "static/css/main.d8db4ea0.chunk.css",
+    "static/js/main.ebf978ad.chunk.js"
+  ]
+}
