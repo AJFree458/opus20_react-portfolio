@@ -5,10 +5,11 @@ import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
+import "./App.css";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Router>
         <Navbar />
         <Switch>
