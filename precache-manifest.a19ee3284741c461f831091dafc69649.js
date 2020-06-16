@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9070c3b334e23e7b9c9cc9368fcba520",
+    "revision": "f9aac230574b23ac59caa58fa2021473",
     "url": "/opus20_react-portfolio/index.html"
   },
   {
-    "revision": "742f500ce0440fb2941b",
+    "revision": "dd2b13ec975096da80cc",
     "url": "/opus20_react-portfolio/static/css/main.d8db4ea0.chunk.css"
   },
   {
-    "revision": "654ae699b1240f522ee0",
-    "url": "/opus20_react-portfolio/static/js/2.36a37aa6.chunk.js"
+    "revision": "74cfa0dcff0c24692ed3",
+    "url": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/opus20_react-portfolio/static/js/2.36a37aa6.chunk.js.LICENSE.txt"
+    "url": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "742f500ce0440fb2941b",
-    "url": "/opus20_react-portfolio/static/js/main.0c2dff36.chunk.js"
+    "revision": "dd2b13ec975096da80cc",
+    "url": "/opus20_react-portfolio/static/js/main.bac2e890.chunk.js"
   },
   {
     "revision": "4aa136ed620c0234a122",

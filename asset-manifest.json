@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/opus20_react-portfolio/static/css/main.d8db4ea0.chunk.css",
-    "main.js": "/opus20_react-portfolio/static/js/main.0c2dff36.chunk.js",
-    "main.js.map": "/opus20_react-portfolio/static/js/main.0c2dff36.chunk.js.map",
+    "main.js": "/opus20_react-portfolio/static/js/main.bac2e890.chunk.js",
+    "main.js.map": "/opus20_react-portfolio/static/js/main.bac2e890.chunk.js.map",
     "runtime-main.js": "/opus20_react-portfolio/static/js/runtime-main.0059ec94.js",
     "runtime-main.js.map": "/opus20_react-portfolio/static/js/runtime-main.0059ec94.js.map",
-    "static/js/2.36a37aa6.chunk.js": "/opus20_react-portfolio/static/js/2.36a37aa6.chunk.js",
-    "static/js/2.36a37aa6.chunk.js.map": "/opus20_react-portfolio/static/js/2.36a37aa6.chunk.js.map",
+    "static/js/2.223b0a0e.chunk.js": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js",
+    "static/js/2.223b0a0e.chunk.js.map": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js.map",
     "index.html": "/opus20_react-portfolio/index.html",
-    "precache-manifest.76971ebf8657e50279a27076850e028f.js": "/opus20_react-portfolio/precache-manifest.76971ebf8657e50279a27076850e028f.js",
+    "precache-manifest.a19ee3284741c461f831091dafc69649.js": "/opus20_react-portfolio/precache-manifest.a19ee3284741c461f831091dafc69649.js",
     "service-worker.js": "/opus20_react-portfolio/service-worker.js",
     "static/css/main.d8db4ea0.chunk.css.map": "/opus20_react-portfolio/static/css/main.d8db4ea0.chunk.css.map",
-    "static/js/2.36a37aa6.chunk.js.LICENSE.txt": "/opus20_react-portfolio/static/js/2.36a37aa6.chunk.js.LICENSE.txt",
+    "static/js/2.223b0a0e.chunk.js.LICENSE.txt": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js.LICENSE.txt",
     "static/media/2020:02:16-EventBook-Screenshot.png": "/opus20_react-portfolio/static/media/2020:02:16-EventBook-Screenshot.a52335f0.png",
     "static/media/App.css": "/opus20_react-portfolio/static/media/2020:03:15-Pathway.6a634593.jpeg",
     "static/media/2020:03:15-Profile.jpeg": "/opus20_react-portfolio/static/media/2020:03:15-Profile.f04247e3.jpeg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0059ec94.js",
-    "static/js/2.36a37aa6.chunk.js",
+    "static/js/2.223b0a0e.chunk.js",
     "static/css/main.d8db4ea0.chunk.css",
-    "static/js/main.0c2dff36.chunk.js"
+    "static/js/main.bac2e890.chunk.js"
   ]
 }
