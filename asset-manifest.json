@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/opus20_react-portfolio/static/css/main.d8db4ea0.chunk.css",
-    "main.js": "/opus20_react-portfolio/static/js/main.bac2e890.chunk.js",
-    "main.js.map": "/opus20_react-portfolio/static/js/main.bac2e890.chunk.js.map",
+    "main.js": "/opus20_react-portfolio/static/js/main.0279237f.chunk.js",
+    "main.js.map": "/opus20_react-portfolio/static/js/main.0279237f.chunk.js.map",
     "runtime-main.js": "/opus20_react-portfolio/static/js/runtime-main.0059ec94.js",
     "runtime-main.js.map": "/opus20_react-portfolio/static/js/runtime-main.0059ec94.js.map",
     "static/js/2.223b0a0e.chunk.js": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js",
     "static/js/2.223b0a0e.chunk.js.map": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js.map",
     "index.html": "/opus20_react-portfolio/index.html",
-    "precache-manifest.a19ee3284741c461f831091dafc69649.js": "/opus20_react-portfolio/precache-manifest.a19ee3284741c461f831091dafc69649.js",
+    "precache-manifest.6440c60547177d0814bbae30d30275c7.js": "/opus20_react-portfolio/precache-manifest.6440c60547177d0814bbae30d30275c7.js",
     "service-worker.js": "/opus20_react-portfolio/service-worker.js",
     "static/css/main.d8db4ea0.chunk.css.map": "/opus20_react-portfolio/static/css/main.d8db4ea0.chunk.css.map",
     "static/js/2.223b0a0e.chunk.js.LICENSE.txt": "/opus20_react-portfolio/static/js/2.223b0a0e.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.0059ec94.js",
     "static/js/2.223b0a0e.chunk.js",
     "static/css/main.d8db4ea0.chunk.css",
-    "static/js/main.bac2e890.chunk.js"
+    "static/js/main.0279237f.chunk.js"
   ]
 }
